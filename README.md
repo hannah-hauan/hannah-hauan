@@ -1,6 +1,5 @@
 
-# I'm Hannah **Learning Designer | UX Designer**  
-I create digital products, e-learning, and technical training.
+# User Experience | Learning Experience Designer
 
 ## Let's Connect
 <a href="https://www.hannahhauan.com">
@@ -13,10 +12,12 @@ I create digital products, e-learning, and technical training.
   <img alt="LinkedIn" src="images/btn-linkedin.png" width="200">
 </a>
 
+
 ---
 
 ### About Me
-- UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
+- I create digital products, e-learning, and technical training.
+-   
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 ### Featured Projects
@@ -53,6 +54,6 @@ I create digital products, e-learning, and technical training.
   </tr>
 </table>
 
-### Toolbelt
-`Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research` · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro` · `WCAG 2.2`
+### Favorite Tools
+`Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS`  · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro` · `WCAG 2.2` · `User Research` · `Collaboration` · `Empathy`
 
