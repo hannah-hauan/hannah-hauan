@@ -3,17 +3,18 @@
 **Learning Designer | UX Designer**  
 Designing accessible, data-informed learning & product experiences.
 
+---
+
+## Let's Connect
 <a href="https://www.hannahhauan.com" target="_blank">
-  <img alt="Link to Portfolio" src="images/btn-portfolio.png">
+  <img alt="Portfolio" src="images/btn-portfolio.png" width="100">
 </a>
 <a href="mailto:hannahchauan@gmail.com" target="_blank">
-  <img alt="Link to Email" src="images/btn-email.png">
+  <img alt="Email" src="images/btn-email.png" width="100">
 </a>
 <a href="https://www.linkedin.com/in/hannahhauan/" target="_blank">
-  <img alt="Link to LinkedIn" src="images/btn-linkedin.png">
+  <img alt="LinkedIn" src="images/btn-linkedin.png" width="100">
 </a>
-
-</div>
 
 ---
 
