@@ -6,7 +6,8 @@
 🎨 I create digital products, e-learning, and technical training (8 years of experience in education + design)
 <br/>
 📚 Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems
-🌵 Nature nerd + photography nerd → check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
+<br/>
+🌵 Nature nerd + photography nerd =  📸 [macrophotography](https://www.hannahhauan.com/about-me)
 
 ### Featured Projects
 <table style="width:100%;">
