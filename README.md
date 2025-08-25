@@ -6,13 +6,13 @@ Designing accessible, data-informed learning & product experiences.
 ---
 
 ## Let's Connect
-<a href="https://www.hannahhauan.com" target="_blank">
+<a href="https://www.hannahhauan.com">
   <img alt="Portfolio" src="images/btn-portfolio.png" width="200">
 </a>
-<a href="mailto:hannahchauan@gmail.com" target="_blank">
+<a href="mailto:hannahchauan@gmail.com">
   <img alt="Email" src="images/btn-email.png" width="200">
 </a>
-<a href="https://www.linkedin.com/in/hannahhauan/" target="_blank">
+<a href="https://www.linkedin.com/in/hannahhauan/">
   <img alt="LinkedIn" src="images/btn-linkedin.png" width="200">
 </a>
 
