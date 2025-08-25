@@ -1,7 +1,8 @@
 
-# User Experience | Learning Experience Designer
+# Hannah Hauan 
+## User Experience Designer | Learning Experience Designer
 
-## Let's Connect
+### Let's Connect
 <a href="https://www.hannahhauan.com">
   <img alt="Portfolio" src="images/btn-portfolio.png" width="200">
 </a>
@@ -16,8 +17,7 @@
 ---
 
 ### About Me
-- I create digital products, e-learning, and technical training.
--   
+- I create digital products, e-learning, and technical training. 
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 ### Featured Projects
@@ -25,7 +25,7 @@
   <tr>
       <td align="center" style="width:33%;">
     <a href="https://www.hannahhauan.com/real-chem-ii">
-      <img alt="View case study" src="images/rc-2.png" width="200">
+      <img alt="View case study" src="images/card-rc-2.png" width="200">
       </a>
       <br/>
       <b>Interactive Chemistry Course</b><br/>
@@ -34,7 +34,7 @@
     </td>
     <td align="center" style="width:33%;">
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
-        <img alt="View case study" src="images/a11y.png" width="200">
+        <img alt="View case study" src="images/card-a11y.png" width="200">
       </a>
       <br/>
       <b>WCAG 2.2 Gamified Learning</b>
@@ -44,7 +44,7 @@
     </td>
     <td align="center" style="width:33%;">
          <a href="https://www.hannahhauan.com/company-website">
-        <img alt="View case study" src="images/company-website.png" width="200">
+        <img alt="View case study" src="images/card-company-website.png" width="200">
         </a>
         <br/>
         <b>Company Website</b><br/>
