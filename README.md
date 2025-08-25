@@ -22,7 +22,7 @@ Let's Connect
 ### About Me
 - UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
-- Huge nature nerd - check out my [photography](https://www.hannahhauan.com/about-me)
+- Huge nature nerd - check out my [📸 photography](https://www.hannahhauan.com/about-me)
 ### Design Work
 <table>
   <tr>
@@ -58,5 +58,5 @@ Let's Connect
 </table>
 
 ### Toolbelt
-`Figma` · `Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research`
+`Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research` · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro`
 
