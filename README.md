@@ -1,22 +1,9 @@
 
-# Hannah Hauan 
-## User Experience Designer | Learning Experience Designer
-
-### Let's Connect
-<a href="https://www.hannahhauan.com">
-  <img alt="Portfolio" src="images/btn-portfolio.png" width="200">
-</a>
-<a href="mailto:hannahchauan@gmail.com">
-  <img alt="Email" src="images/btn-email.png" width="200">
-</a>
-<a href="https://www.linkedin.com/in/hannahhauan/">
-  <img alt="LinkedIn" src="images/btn-linkedin.png" width="200">
-</a>
-
+# Hannah Hauan (UX & LX)
 
 ---
 
-### About Me
+## About Me
 - I create digital products, e-learning, and technical training. 
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
@@ -57,3 +44,13 @@
 ### Favorite Tools
 `Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS`  · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro` · `WCAG 2.2` · `User Research` · `Collaboration` · `Empathy`
 
+### Let's Connect
+<a href="https://www.linkedin.com/in/hannahhauan/">
+  <img alt="LinkedIn" src="images/btn-linkedin.png" width="200">
+</a>  
+<a href="mailto:hannahchauan@gmail.com">
+  <img alt="Email" src="images/btn-email.png" width="200">
+</a>
+<a href="https://www.hannahhauan.com">
+  <img alt="Portfolio" src="images/btn-portfolio.png" width="200">
+</a>
