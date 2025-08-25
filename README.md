@@ -1,7 +1,7 @@
 
-# Hannah Hauan
+# I'm Hannah
 **Learning Designer | UX Designer**  
-Designing accessible, data-informed learning & product experiences.
+I create digital products, e-learning, and technical training.
 
 ---
 
@@ -23,9 +23,9 @@ Designing accessible, data-informed learning & product experiences.
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 ### Featured Projects
-<table>
-  <tr width="100%">
-      <td width="33%">
+<table style="width:100%;">
+  <tr>
+      <td align="center" style="width:33%;">
     <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/rc-2.png" width="200">
       </a>
@@ -34,7 +34,7 @@ Designing accessible, data-informed learning & product experiences.
        Learning Design | Animation
       <br/>
     </td>
-    <td width="33%">
+    <td align="center" style="width:33%;">
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/a11y.png" width="200">
       </a>
@@ -44,7 +44,7 @@ Designing accessible, data-informed learning & product experiences.
       Accessibility | Game Mechanics
       <br/>
     </td>
-    <td width="33%">
+    <td align="center" style="width:33%;">
          <a href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="images/company-website.png" width="200">
         </a>
