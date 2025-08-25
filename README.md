@@ -31,14 +31,15 @@ Designing accessible, data-informed learning & product experiences.
       </a>
       <br/>
       <b>Interactive Chemistry Course</b><br/>
-      SME Collaboration | Learning Design | Animation
+       Learning Design | Animation
       <br/>
     </td>
     <td>
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/a11y.png" width="80%">
       </a>
-      <b>WCAG 2.2 Gamified Learning</b><br/>
+      <b>WCAG 2.2 Gamified Learning</b>
+      <br/>
       Accessibility | Game Mechanics | Web Design
       <br/>
     </td>
