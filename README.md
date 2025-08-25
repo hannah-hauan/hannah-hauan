@@ -5,8 +5,7 @@ Designing accessible, data-informed learning & product experiences.
 
 ---
 
-Let's Connect
-<br>
+## Let's Connect
 <a href="https://www.hannahhauan.com" target="_blank">
   <img alt="Portfolio" src="images/btn-portfolio.png" width="200">
 </a>
@@ -24,8 +23,8 @@ Let's Connect
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd - check out my [📸 photography](https://www.hannahhauan.com/about-me)
 ### Design Work
-<table>
-  <tr>
+<table border="0">
+  <tr align="center">
       <td>
     <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/rc-2.png" width="200">
@@ -58,5 +57,5 @@ Let's Connect
 </table>
 
 ### Toolbelt
-`Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research` · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro`
+`Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research` · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro` · `WCAG 2.2`
 
