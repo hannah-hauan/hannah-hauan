@@ -1,9 +1,6 @@
 
-# I'm Hannah
-**Learning Designer | UX Designer**  
+# I'm Hannah **Learning Designer | UX Designer**  
 I create digital products, e-learning, and technical training.
-
----
 
 ## Let's Connect
 <a href="https://www.hannahhauan.com">
