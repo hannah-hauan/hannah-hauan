@@ -7,10 +7,10 @@ Designing accessible, data-informed learning & product experiences.
   <img alt="Link to Portfolio" src="images/btn-portfolio.png">
 </a>
 <a href="mailto:hannahchauan@gmail.com" target="_blank">
-  <img alt="Link to Email" src="images/btn-email">
+  <img alt="Link to Email" src="images/btn-email.png">
 </a>
 <a href="https://www.linkedin.com/in/hannahhauan/" target="_blank">
-  <img alt="Link to LinkedIn" src="images/btn-linkedin">
+  <img alt="Link to LinkedIn" src="images/btn-linkedin.png">
 </a>
 
 </div>
