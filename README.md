@@ -6,7 +6,10 @@
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 ### Favorite Tools
 `Figma` · `Articulate Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS`  · `Illustrator` · `Photoshop` · `After Effects` · `Premiere Pro` · `WCAG 2.2` · `User Research` · `Collaboration` · `Empathy`
+
 ### Featured Projects
+<details open>
+<summary><Featured Projects></summary>
 <table style="width:100%;">
   <tr>
       <td>
@@ -39,6 +42,7 @@
      </td>
   </tr>
 </table>
+</details>
 
 ### Let's Connect
 <a href="https://www.linkedin.com/in/hannahhauan/">
