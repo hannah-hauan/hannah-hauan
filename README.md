@@ -22,10 +22,10 @@ Designing accessible, data-informed learning & product experiences.
 - UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 - Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
-### Design Work
+### Featured Projects
 <table>
-  <tr>
-      <td>
+  <tr width="100%">
+      <td width="33%">
     <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/rc-2.png" width="200">
       </a>
@@ -34,7 +34,7 @@ Designing accessible, data-informed learning & product experiences.
        Learning Design | Animation
       <br/>
     </td>
-    <td>
+    <td width="33%">
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/a11y.png" width="200">
       </a>
@@ -44,7 +44,7 @@ Designing accessible, data-informed learning & product experiences.
       Accessibility | Game Mechanics
       <br/>
     </td>
-    <td>
+    <td width="33%">
          <a href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="images/company-website.png" width="200">
         </a>
