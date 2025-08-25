@@ -21,10 +21,10 @@ Designing accessible, data-informed learning & product experiences.
 ### About Me
 - UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
-- Huge nature nerd - check out my [📸 photography](https://www.hannahhauan.com/about-me)
+- Huge nature nerd, huge photography nerd - check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 ### Design Work
-<table border="0">
-  <tr align="center">
+<table>
+  <tr>
       <td>
     <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/rc-2.png" width="200">
