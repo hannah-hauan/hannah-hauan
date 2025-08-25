@@ -13,8 +13,10 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-hannahchauan%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/hannahhauan/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/%F0%9F%92%BB%20Portfolio">
   </a>
+  ![Static Badge](https://img.shields.io/badge/%F0%9F%92%BB%20Portfolio)
+
 </p>
 
 ---
@@ -56,6 +58,7 @@
       </a>
        <br/>
         <b>Company Website</b><br/>
+        <br/>
       <a href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="https://img.shields.io/badge/View%20Case%20Study-000?style=flat">
       </a>
@@ -69,13 +72,3 @@
 - 🗂️ <a href="https://www.hannahhauan.com">Design Portfolio</a>
 - 📄 <a href="https://your-resume-link.pdf">Resume</a>
 - ✍️ <a href="https://your-blog-link">Writing & notes</a>
-
----
-
-<!-- Optional GitHub goodies -->
-<details>
-  <summary>GitHub stats</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hannahhauan&show_icons=true&hide_title=true" alt="GitHub stats">
-  
-</details>
