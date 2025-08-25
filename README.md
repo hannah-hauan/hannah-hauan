@@ -18,7 +18,7 @@
        Learning Design | Animation
       <br/>
     </td>
-    <td align="center" style="width:33%;">
+    <td align="center" style="background:#fefefe;>
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/card-a11y.png" width="200">
       </a>
