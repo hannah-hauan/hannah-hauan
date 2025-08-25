@@ -9,7 +9,7 @@
 ### Featured Projects
 <table style="width:100%;">
   <tr>
-      <td align="center" style="width:33%;">
+      <td>
     <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/card-rc-2.png" width="200">
       </a>
@@ -18,7 +18,7 @@
        Learning Design | Animation
       <br/>
     </td>
-    <td align="center" style="background:#fefefe;>
+    <td>
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/card-a11y.png" width="200">
       </a>
@@ -28,7 +28,7 @@
       Accessibility | Game Mechanics
       <br/>
     </td>
-    <td align="center" style="width:33%;">
+    <td>
          <a href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="images/card-company-website.png" width="200">
         </a>
