@@ -22,7 +22,7 @@ Let's Connect
 ### About Me
 - UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
-
+- Huge nature nerd - check out my [photography](https://www.hannahhauan.com/about)
 ### Design Work
 <table>
   <tr>
@@ -42,7 +42,7 @@ Let's Connect
       <br/>
       <b>WCAG 2.2 Gamified Learning</b>
       <br/>
-      Accessibility | Game Mechanics | Web Design
+      Accessibility | Game Mechanics
       <br/>
     </td>
     <td>
