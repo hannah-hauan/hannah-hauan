@@ -31,10 +31,10 @@ Designing accessible, data-informed learning & product experiences.
       </a>
       <br/>
       <b>WCAG 2.2 Gamified Learning</b><br/>
-      Accessibility x Game Mechanics
+      Accessibility | Game Mechanics | Web Design
       <br/>
       <a href="https://www.hannahhauan.com/wcag2-2-elearning">
-        <img alt="View case study" src="a11y.png">
+        <img alt="View case study" src="images/a11y.png">
       </a>
     </td>
     <td>
@@ -43,18 +43,19 @@ Designing accessible, data-informed learning & product experiences.
       </a>
       <br/>
       <b>Interactive Chemistry Course</b><br/>
-      SME collaboration, data-informed iteration
+      SME Collaboration | Learning Design | Animation
       <br/>
       <a href="https://www.hannahhauan.com/case-studies/chemistry-course">
-        <img alt="View case study" src="rc-2.png">
+        <img alt="View case study" src="images/rc-2.png">
       </a>
     </td>
     <td>
         <br/>
         <b>Company Website</b><br/>
+          UX | Illustration | Animation
         <br/>
       <a href="https://www.hannahhauan.com/company-website">
-        <img alt="View case study" src="company-website.png">
+        <img alt="View case study" src="images/company-website.png">
       </a>
      </td>
   </tr>
