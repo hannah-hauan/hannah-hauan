@@ -26,12 +26,11 @@ Designing accessible, data-informed learning & product experiences.
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 
 ### Design Work
-<grid>
 <table>
   <tr>
       <td>
     <a href="https://www.hannahhauan.com/real-chem-ii">
-      <img alt="View case study" src="images/rc-2.png" width="80%">
+      <img alt="View case study" src="images/rc-2.png" width="250">
       </a>
       <br/>
       <b>Interactive Chemistry Course</b><br/>
@@ -40,7 +39,7 @@ Designing accessible, data-informed learning & product experiences.
     </td>
     <td>
        <a href="https://www.hannahhauan.com/wcag2-2-elearning">
-        <img alt="View case study" src="images/a11y.png" width="80%">
+        <img alt="View case study" src="images/a11y.png" width="250">
       </a>
       <b>WCAG 2.2 Gamified Learning</b>
       <br/>
@@ -49,7 +48,7 @@ Designing accessible, data-informed learning & product experiences.
     </td>
     <td>
          <a href="https://www.hannahhauan.com/company-website">
-        <img alt="View case study" src="images/company-website.png" width="100%">
+        <img alt="View case study" src="images/company-website.png" width="250">
         </a>
         <br/>
         <b>Company Website</b><br/>
