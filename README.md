@@ -2,7 +2,9 @@
 # Hannah Hauan (UX & LX)
 ## About Me
 🤓 Currently studying a MS in UX Design from Arizona State University
+<br/>
 🎨 I create digital products, e-learning, and technical training (8 years of experience in education + design)
+<br/>
 📚 Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 🌵 Nature nerd + photography nerd → check out my  📸 [favorite photos](https://www.hannahhauan.com/about-me)
 
