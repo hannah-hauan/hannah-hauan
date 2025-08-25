@@ -7,16 +7,14 @@
 <!-- Button row -->
 <p align="center">
   <a href="https://www.hannahhauan.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:hannahchauan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hannahchauan%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-hannahchauan%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/hannahhauan/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/%F0%9F%92%BB%20Portfolio">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  ![Static Badge](https://img.shields.io/badge/%F0%9F%92%BB%20Portfolio)
-
 </p>
 
 ---
@@ -72,3 +70,43 @@
 - 🗂️ <a href="https://www.hannahhauan.com">Design Portfolio</a>
 - 📄 <a href="https://your-resume-link.pdf">Resume</a>
 - ✍️ <a href="https://your-blog-link">Writing & notes</a>
+
+
+
+SECOND ONE TO SEE
+
+<div align="center">
+
+# Hannah Hauan
+**Learning Experience Designer / UX**  
+Designing accessible, data-informed learning & product experiences.
+
+<a href="https://www.hannahhauan.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://www.hannahhauan.com/case-studies" target="_blank">
+  <img alt="Case Studies" src="https://img.shields.io/badge/Case%20Studies-4b9cd3?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+<a href="mailto:hannahchauan@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-9b26b0?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/hannahhauan/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+### About Me
+- UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
+- Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
+
+### Selected Work
+- **Interactive Chemistry Course (ASU)** – backward design, analytics-driven iterations  
+- **WCAG 2.2 Game** – gamified accessibility training for mixed audiences  
+- **Instructor-led + eLearning** – Storyline, web widgets, and in-app simulations
+
+### Toolbelt
+`Figma` · `Storyline` · `HTML/CSS/JS` · `Camtasia` · `LMS` · `Mural` · `User Research`
+
