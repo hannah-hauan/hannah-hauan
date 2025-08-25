@@ -7,10 +7,10 @@ Designing accessible, data-informed learning & product experiences.
   <img alt="Link to Portfolio" src="images/btn-portfolio.png">
 </a>
 <a href="mailto:hannahchauan@gmail.com" target="_blank">
-  <img alt="Link to Email" src="https://img.shields.io/badge/Email-9b26b0?style=for-the-badge&logo=gmail&logoColor=white">
+  <img alt="Link to Email" src="images/btn-email">
 </a>
 <a href="https://www.linkedin.com/in/hannahhauan/" target="_blank">
-  <img alt="Link to LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Link to LinkedIn" src="images/btn-linkedin">
 </a>
 
 </div>
