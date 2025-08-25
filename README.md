@@ -26,37 +26,30 @@ Designing accessible, data-informed learning & product experiences.
 <table>
   <tr>
     <td>
-      <a href="https://www.hannahhauan.com/case-studies/wcag-game">
-        <img src="https://via.placeholder.com/480x260?text=WCAG+2.2+Game" alt="WCAG 2.2 Gamified Learning cover" width="100%">
+       <a href="https://www.hannahhauan.com/wcag2-2-elearning">
+        <img alt="View case study" src="images/a11y.png" width="100%">
       </a>
-      <br/>
       <b>WCAG 2.2 Gamified Learning</b><br/>
       Accessibility | Game Mechanics | Web Design
       <br/>
-      <a href="https://www.hannahhauan.com/wcag2-2-elearning">
-        <img alt="View case study" src="images/a11y.png">
-      </a>
     </td>
     <td>
-      <a href="https://www.hannahhauan.com/real-chem-ii">
-        <img src="https://via.placeholder.com/480x260?text=Interactive+Chemistry" alt="Interactive Chemistry cover" width="100%">
+    <a href="https://www.hannahhauan.com/real-chem-ii">
+      <img alt="View case study" src="images/rc-2.png" width="100%">
       </a>
       <br/>
       <b>Interactive Chemistry Course</b><br/>
       SME Collaboration | Learning Design | Animation
       <br/>
-      <a href="https://www.hannahhauan.com/case-studies/chemistry-course">
-        <img alt="View case study" src="images/rc-2.png">
-      </a>
     </td>
     <td>
+         <a href="https://www.hannahhauan.com/company-website">
+        <img alt="View case study" src="images/company-website.png" width="100%">
+        </a>
         <br/>
         <b>Company Website</b><br/>
           UX | Illustration | Animation
         <br/>
-      <a href="https://www.hannahhauan.com/company-website">
-        <img alt="View case study" src="images/company-website.png">
-      </a>
      </td>
   </tr>
 </table>
