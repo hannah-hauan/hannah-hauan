@@ -3,6 +3,9 @@
 # Hannah Hauan
 **Learning Experience Designer / UX**  
 Designing accessible, data-informed learning & product experiences.
+<div style="color: #fefefe; border-radius: 5px; width: 1.5em; height: 1em; background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);"> 
+<a href="https://www.hannahhauan.com" target="_blank">
+</div>
 
 <a href="https://www.hannahhauan.com" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -22,7 +25,8 @@ Designing accessible, data-informed learning & product experiences.
 - UX/LX designer focused on **accessibility (WCAG 2.2)** and measurable outcomes  
 - Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems  
 
-### Selected Work
+### Design Work
+<grid>
 <table>
   <tr>
       <td>
