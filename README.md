@@ -1,7 +1,7 @@
 <!-- Hero / intro -->
 <h1 align="center">Hi, I'm Hannah 👋</h1>
 <p align="center">
-  UX & Learning Designer • Accessibility advocate • Builder of delightful, usable things
+  UX & Learning Designer • Accessibility advocate • Builder
 </p>
 
 <!-- Button row -->
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.linkedin.com/in/hannahhauan/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://figma.com/@yourhandle">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-Work-1ABCFE?style=for-the-badge&logo=figma&logoColor=white">
   </a>
 </p>
 
@@ -42,12 +39,12 @@
       <b>WCAG 2.2 Gamified Learning</b><br/>
       Accessibility x Game Mechanics
       <br/>
-      <a href="https://www.hannahhauan.com/case-studies/wcag-game">
+      <a href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="https://img.shields.io/badge/View%20Case%20Study-000?style=flat&logo=readme&logoColor=white">
       </a>
     </td>
     <td>
-      <a href="https://www.hannahhauan.com/case-studies/chemistry-course">
+      <a href="https://www.hannahhauan.com/real-chem-ii">
         <img src="https://via.placeholder.com/480x260?text=Interactive+Chemistry" alt="Interactive Chemistry cover" width="100%">
       </a>
       <br/>
@@ -55,6 +52,11 @@
       SME collaboration, data-informed iteration
       <br/>
       <a href="https://www.hannahhauan.com/case-studies/chemistry-course">
+        <img alt="View case study" src="https://img.shields.io/badge/View%20Case%20Study-000?style=flat">
+      </a>
+       <br/>
+        <b>Company Website</b><br/>
+      <a href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="https://img.shields.io/badge/View%20Case%20Study-000?style=flat">
       </a>
     </td>
