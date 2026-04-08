@@ -3,9 +3,9 @@
 ## About Me
 🤓 Currently studying a MS in UX Design from Arizona State University
 <br/>
-🎨 I create digital products, e-learning, and technical training (8 years of experience in education + design)
+🎨 I create digital products, e-learning, and technical training (11 years of experience in education + design)
 <br/>
-📚 Love prototyping in **Figma**, building **interactive learning**, and simplifying complex systems
+📚 Love prototyping with **Claude** and **Figma**, building **interactive learning with Articulate**, and simplifying complex systems
 <br/>
 🌵 Nature nerd + photography nerd =  📸 [macrophotography](https://www.hannahhauan.com/about-me)
 
