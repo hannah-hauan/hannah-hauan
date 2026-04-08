@@ -1,6 +1,8 @@
 
 # Hannah Hauan (UX & LX)
 ## About Me
+💼 Leading Learning Design at **Lucid Motors**
+<br/>
 🤓 Currently studying a MS in UX Design from Arizona State University
 <br/>
 🎨 I create digital products, e-learning, and technical training (11 years of experience in education + design)
