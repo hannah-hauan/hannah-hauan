@@ -9,7 +9,7 @@
 <br/>
 📚 I love prototyping with **Claude** and **Figma**, building **interactive learning with Articulate**, and simplifying complex systems.
 <br/>
-🌵 Nature nerd + photography nerd =  📸 [macrophotography](https://www.hannahhauan.com/about-me)
+🌵 I am a nature nerd + photography nerd =  📸 [macrophotography](https://www.hannahhauan.com/about-me)
 
 ### Featured Projects
 <table style="width:100%;">
