@@ -15,7 +15,7 @@
 <table style="width:100%;">
   <tr>
       <td>
-    <a href="https://www.hannahhauan.com/real-chem-ii">
+    <a target="_blank" href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/card-rc-2.png" width="200">
       </a>
       <br/>
@@ -24,9 +24,9 @@
       <br/>
     </td>
     <td>
-       <a href="https://www.hannahhauan.com/wcag2-2-elearning">
+       <a target="_blank" href="https://www.hannahhauan.com/wcag2-2-elearning">
         <img alt="View case study" src="images/card-a11y.png" width="200">
-      </a>
+      </a>https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
       <br/>
       <b>WCAG 2.2 Gamified Learning</b>
       <br/>
@@ -34,7 +34,7 @@
       <br/>
     </td>
     <td>
-         <a href="https://www.hannahhauan.com/company-website">
+         <a target="_blank" href="https://www.hannahhauan.com/company-website">
         <img alt="View case study" src="images/card-company-website.png" width="200">
         </a>
         <br/>
