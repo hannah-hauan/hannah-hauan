@@ -15,7 +15,7 @@
 <table style="width:100%;">
   <tr>
       <td>
-    <a href="https://www.hannahhauan.com/real-chem-ii" target="_blank">
+    <a href="https://www.hannahhauan.com/real-chem-ii">
       <img alt="View case study" src="images/card-rc-2.png" width="200">
       </a>
       <br/>
