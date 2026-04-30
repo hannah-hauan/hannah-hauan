@@ -3,7 +3,7 @@
 ## About Me
 💼 I lead Learning Design at **Lucid Motors**.
 <br/>
-🤓 I am graduating with a MS in UX Design from Arizona State University in May 2026.
+🤓 MS in UX Design | BS in Plant Design
 <br/>
 🎨 I create digital products, e-learning, and technical training (11 years of experience in education + design).
 <br/>
