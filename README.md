@@ -1,7 +1,7 @@
 
 # Hannah Hauan (UX & LX)
 ## About Me
-💼 I lead Learning Design at **Lucid Motors**.
+💼 I am a Sr. Instructional Designer at **Lucid Motors**.
 <br/>
 🤓 MS in UX Design | BS in Plant Design
 <br/>
