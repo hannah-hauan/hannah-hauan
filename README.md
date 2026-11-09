@@ -1,5 +1,5 @@
 
-# Hannah Hauan (UX & LX)
+# Hannah Hauan (LXD & UX)
 ## About Me
 💼 I am a Sr. Instructional Designer at **Lucid Motors**.
 <br/>
@@ -7,7 +7,7 @@
 <br/>
 🎨 I create digital products, e-learning, and technical training (11 years of experience in education + design).
 <br/>
-📚 I love prototyping with **Claude** and **Figma**, building **interactive learning with Articulate**, and simplifying complex systems.
+📚 I love prototyping with **Claude** and **Figma**, building interactive learning with **Articulate**, and simplifying complex systems.
 <br/>
 🌵 I am a nature nerd + photography nerd =  📸 [macrophotography](https://www.hannahhauan.com/about-me)
 
